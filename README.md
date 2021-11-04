@@ -1,1 +1,1 @@
-# Identi-kacija-faznih-prijelaza-strojnim-u-enjem-i-metodom-konfuzije-seminar-
+# Identifkacija faznih prijelaza strojnim učenjem i metodom konfuzije
